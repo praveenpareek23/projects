@@ -1,0 +1,101 @@
+[{
+      "orderId": 123,
+      "userId": "abc@gmail.com",
+      "finalOrderAmount": 730,
+      "orderAmoount": 800,
+      "discountAmount": 70,
+      "totalItemCount": 2,
+      "deliveryType": "EXPRESS",
+      "orderItems": [
+        {
+          "itemId": "sku_12",
+          "itemPrice": 350,
+          "itemName": "soap",
+          "itemImage": "abc/sku_12.jpg",
+          "itemCount": 1
+        },
+        {
+          "itemId": "sku_13",
+          "itemPrice": 350,
+          "itemName": "handwash",
+          "itemImage": "abc/sku_13.jpg",
+          "itemCount": 1
+        }
+      ]
+    },
+    {
+      "orderId": 1234,
+      "userId": "abcD@gmail.com",
+      "finalOrderAmount": 800,
+      "orderAmoount": 900,
+      "discountAmount": 100,
+      "totalItemCount": 2,
+      "deliveryType": "STANDARD",
+      "orderItems": [
+        {
+          "itemId": "sku_1",
+          "itemPrice": 450,
+          "itemName": "cream",
+          "itemImage": "abc/sku_1.jpg",
+          "itemCount": 1
+        },
+        {
+          "itemId": "sku_2",
+          "itemPrice": 450,
+          "itemName": "bottle",
+          "itemImage": "abc/sku_2.jpg",
+          "itemCount": 1
+        }
+      ]
+    },
+    {
+      "orderId": 12345,
+      "userId": "a@gmail.com",
+      "finalOrderAmount": 900,
+      "orderAmoount": 100,
+      "discountAmount": 100,
+      "totalItemCount": 2,
+      "deliveryType": "EXPRESS",
+      "orderItems": [
+        {
+          "itemId": "sku_3",
+          "itemPrice": 500,
+          "itemName": "spinner",
+          "itemImage": "abc/sku_3.jpg",
+          "itemCount": 1
+        },
+        {
+          "itemId": "sku_4",
+          "itemPrice": 500,
+          "itemName": "pen",
+          "itemImage": "abc/sku_4.jpg",
+          "itemCount": 1
+        }
+      ]
+    },
+     {
+      "orderId": 123456,
+      "userId": "123456@gmail.com",
+      "finalOrderAmount": 1200,
+      "orderAmoount": 1500,
+      "discountAmount": 300,
+      "totalItemCount": 2,
+      "deliveryType": "EXPRESS",
+      "orderItems": [
+        {
+          "itemId": "sku_5",
+          "itemPrice": 750,
+          "itemName": "detergent",
+          "itemImage": "abc/sku_5.jpg",
+          "itemCount": 1
+        },
+        {
+          "itemId": "sku_6",
+          "itemPrice": 750,
+          "itemName": "charger",
+          "itemImage": "abc/sku_6.jpg",
+          "itemCount": 1
+        }
+      ]
+    }
+]
